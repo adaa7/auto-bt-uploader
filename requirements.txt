@@ -1,0 +1,3 @@
+qbittorrent-api>=2023.9.57
+pyinstaller>=5.0
+
